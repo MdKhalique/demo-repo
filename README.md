@@ -4,7 +4,7 @@ Some Decription!
 
 ## Subheader
 
-Watch tutotial on Youtube
+Watch tutorial on Youtube
 
 ## Local Developtment
 
